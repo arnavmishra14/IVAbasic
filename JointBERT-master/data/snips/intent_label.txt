@@ -1,0 +1,16 @@
+UNK
+AddToPlaylist
+BookRestaurant
+GetWeather
+PlayMusic
+RateBook
+SearchCreativeWork
+SearchScreeningEvent
+OpenEntity
+CloseEntity
+DeleteEntity
+MoveEntity
+SelectEntity
+AddToNotes
+SendEmail
+SearchEntity
